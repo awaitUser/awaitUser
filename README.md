@@ -16,12 +16,12 @@ mannu@archbtw:~$ neofetch
     `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       Packages: 1030 (pacman)
    ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: /bin/zsh
   ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editors: vim, vscode
- :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: git@github.com:5y8z
+ :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Home: git@github.com:awaitUser
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0    
 a@@@@@@@@@@2                                    v@@@@@@@@@@;   contact information
 #@@@@@@@@@@_                                     @@@@@@@@@@y   -------------------
-@@@@@@@@@@@.                                     @@@@@@@@@@%   Discord: 5y8z
-#@@@@@@@@@@r                                    :@@@@@@@@@@s   Github: 5y8z
+@@@@@@@@@@@.                                     @@@@@@@@@@%   Discord: runlater
+#@@@@@@@@@@r                                    :@@@@@@@@@@s   Github: awaitUser
 W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   
 ~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    device specifications 
  ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    ---------------------  
