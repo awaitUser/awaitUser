@@ -6,10 +6,10 @@
 
 -----
 ```console
-mannu@archbtw:~$ neofetch
+mannu@archbtw:~$ gitfetch
 
                    .~vVeZNgQBBBQQg9Ze1v~.                   
-              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 5y8z@archbtw
+              `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 await@archbtw
            -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -----------------------
         .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           OS: GNU/Linux
       _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Uptime: i forgor
